@@ -10,8 +10,9 @@ Grails3集成freemarker模板引擎
 
 1、创建grails项目
     
-```
 2、在build.gradle的dependencies中引入依赖
+
+```
 runtime "org.freemarker:freemarker:latest.release"
     
 ```
